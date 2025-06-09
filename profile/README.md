@@ -26,7 +26,7 @@
 
 ## 🖼 Preview
 
-![GGPoker Lobby](https://d3ltpfxjzvda6e.cloudfront.net/2020/09/29/pokerstars-old-lobby-cash-game-filters-sm.png)  
+![GGPoker Lobby](https://pokerindustrypro.com/site_media/media/uploads/news/ggpoker-vip-lobby-empty-wm.png)  
 *GGPoker main lobby with game filters*
 
 ![GGPoker HUD Overview](https://manula.r.sizr.io/large/user/3755/img/hudoverview.png)  
